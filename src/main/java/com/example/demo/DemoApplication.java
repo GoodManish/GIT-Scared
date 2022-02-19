@@ -8,6 +8,7 @@ public class DemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
+		System.out.println("--- Feature worked by goodmanish2 - Updated by GoodManish2 ---");  //goodmanish2 commit
 	}
 
 }
