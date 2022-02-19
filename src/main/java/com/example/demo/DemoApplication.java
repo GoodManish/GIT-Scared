@@ -10,6 +10,7 @@ public class DemoApplication {
 		SpringApplication.run(DemoApplication.class, args);
 		System.out.println("--- Feature worked by goodmanish2 ---");  //GoodManish2 commit
 		System.out.println("--- Feature Logging updated ---");
+		System.out.println("--- new chg ---");
 	}
 
 }
